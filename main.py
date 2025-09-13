@@ -127,4 +127,4 @@ def sum_by_range_from_excel(when: str) -> int:
     return int(df.loc[flt, "金額"].sum())
 
 # ====== データ移送（保存） ======
-def move_sheet_to_excel_and_c_
+def move_sheet_to_excel_and_clear():
