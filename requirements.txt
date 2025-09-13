@@ -1,8 +1,10 @@
 fastapi
-uvicorn[standard]
-gspread
-google-auth
-python-dateutil
+uvicorn
 pytz
-requests
+gspread
+oauth2client
+pandas
 openpyxl
+google-api-python-client
+line-bot-sdk
+python-dateutil
